@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 <br>
+<h3>Site está responsivo podendo ser utilizado em computadores e celulares.</h3>
 <img src="https://github.com/thiagogirotto85/meu-primeiro-projeto-git/blob/master/Imagem%20projeto%20responsividade.png?raw=true" alt="logo-desktop-responsvo"/>
 <br>
 
